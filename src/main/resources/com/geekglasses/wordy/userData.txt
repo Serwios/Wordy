@@ -1,0 +1,2 @@
+UserLanguage=Ukrainian
+Difficulty=Difficulty.C1_C2(value=C1-C2)
